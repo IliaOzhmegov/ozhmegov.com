@@ -13,21 +13,22 @@
 
 Welcome to my blog! 
 
-My name is Ilia Ozhmegov, and I am a data science 
-enthusiast and practitioner. I hold a Master's degree in Data Science and have 
-over 5 years of experience.
-
+My name is Ilia Ozhmegov, and I am a data enthusiast and practitioner. 
+I hold a Master's degree in Data Science and have over 5 years of experience 
+in Data and SWE fields working in different domains starting from finance and 
+ending up with robotics.
 
 <!-- ![alt text](/images/me.jpeg "Title") -->
 
 In addition to my work in data science and machine learning, I am also 
-interested in data engineering and software engineering. I have experience 
-with programming languages such as Rust, C++, and Python, and I enjoy 
-exploring new technologies and frameworks.
+interested in data engineering and software engineering. I have over 7 years 
+of experience with programming languages such as Rust, C++, and Python, and I 
+enjoy exploring new technologies and frameworks.
 
-One area of particular interest to me is distributed technologies such as 
-Apache Spark and Apache Kafka. I believe that these tools can be used to build 
-powerful data pipelines and enable real-time data processing at scale.
+One area of particular interest to me are distributed technologies such as 
+Apache Spark and Apache Kafka. From my experience as Data And Analytics 
+Engineer I have gained an empirical evidence of how these tools are crucial in 
+meeting data needs of businesses. 
 
 When I'm not working on data-related projects or writing blog posts, you can 
 find me cycling on my bike, travelling to new places, or mastering new skills. 
@@ -38,7 +39,6 @@ things.
 Thank you for visiting my blog, and I hope you find my content helpful and 
 informative. If you have any questions or comments, please don't hesitate to 
 reach out to me through the contacts below.
-
 
 <p align="center">
   <a href="https://www.github.com/iliaozhmegov/ilia-ozhmegov/"><img alt="github" src="https://img.shields.io/badge/-iliaozhmegov-000000?style=flat-square&logo=GitHub&logoColor=white"></a>
