@@ -977,10 +977,34 @@ IMAGE_FOLDERS = {'images': 'images'}
 # FAVICONS contains (name, file, size) tuples.
 # Used to create favicon link like this:
 # <link rel="name" href="file" sizes="size"/>
-# FAVICONS = ( # thisone?
-#     ("icon", "/favicon.ico", "16x16"),
-#     ("icon", "/icon_128x128.png", "128x128"),
-# )
+FAVICONS = ( # thisone?
+    ("icon", "/favicon.ico", "16x16"),
+
+    ("icon", "/favicon-16x16.png", "16x16"),
+    ("icon", "/favicon-32x32.png", "32x32"),
+    ("icon", "/favicon-96x96.png", "96x96"),
+
+    ("icon", "/android-icon-36x36.png", "36x36"),
+    ("icon", "/favicon-36x36.png", "36x36"),
+
+
+    ("icon", "/android-icon-192x192.png", "192x192"),
+    ("icon", "/android-icon-144x144.png", "144x144"),
+    ("icon", "/android-icon-96x96.png", "96x96"),
+    ("icon", "/android-icon-72x72.png", "72x72"),
+    ("icon", "/android-icon-48x48.png", "48x48"),
+    ("icon", "/android-icon-36x36.png", "36x36"),
+
+    ("apple-touch-icon", "/apple-icon-114x114.png", "114x114"),
+    ("apple-touch-icon", "/apple-icon-120x120.png", "120x120"),
+    ("apple-touch-icon", "/apple-icon-144x144.png", "144x144"),
+    ("apple-touch-icon", "/apple-icon-152x152.png", "152x152"),
+    ("apple-toucn-icon", "/apple-icon-180x180.png", "180x180"),
+    ("apple-toucn-icon", "/apple-icon-57x57.png", "57x57"),
+    ("apple-toucn-icon", "/apple-icon-60x60.png", "60x60"),
+    ("apple-toucn-icon", "/apple-icon-72x72.png", "72x72"),
+    ("apple-toucn-icon", "/apple-icon-76x76.png", "76x76"),
+)
 
 # Show teasers (instead of full posts) in indexes? Defaults to False.
 INDEX_TEASERS = True
