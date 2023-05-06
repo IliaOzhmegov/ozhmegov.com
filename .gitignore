@@ -53,3 +53,6 @@ docs/_build/
 .doit.db
 cache/
 output/
+
+# OSX 
+.DS_Store
